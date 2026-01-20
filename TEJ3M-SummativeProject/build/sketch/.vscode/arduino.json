@@ -1,0 +1,20 @@
+#line 1 "C:\\Users\\sinan\\OneDrive\\Documents\\TEJ3M-Summative\\TEJ3M-FinalProject\\TEJ3M-SummativeProject\\.vscode\\arduino.json"
+{
+  "port": "COM5",
+  "configuration": "",
+  "output": "build",
+  "board": "arduino:renesas_uno:unor4wifi",
+  "programmer": "",
+  "useProgrammer": false,
+  "optimize_for_debug": false,
+  "configurationRequired": false,
+  "compile_profile": "",
+  "monitorPortSettings": {
+    "port": "COM5",
+    "baudRate": 115200,
+    "lineEnding": "\r\n",
+    "dataBits": 8,
+    "parity": "none",
+    "stopBits": "one"
+  }
+}

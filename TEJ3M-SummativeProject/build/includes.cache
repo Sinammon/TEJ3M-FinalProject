@@ -1,0 +1,69 @@
+[
+  {
+    "added_include_path": "C:\\Users\\sinan\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\renesas_uno\\1.5.1\\cores\\arduino"
+  },
+  {
+    "added_include_path": "C:\\Users\\sinan\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\renesas_uno\\1.5.1\\variants\\UNOWIFIR4"
+  },
+  {
+    "compile": {
+      "source_path": "C:\\Users\\sinan\\OneDrive\\Documents\\TEJ3M-Summative\\TEJ3M-FinalProject\\TEJ3M-SummativeProject\\build\\sketch\\TEJ3M-SummativeProject.ino.cpp",
+      "object_path": "C:\\Users\\sinan\\OneDrive\\Documents\\TEJ3M-Summative\\TEJ3M-FinalProject\\TEJ3M-SummativeProject\\build\\sketch\\TEJ3M-SummativeProject.ino.cpp.o",
+      "depfile_path": "C:\\Users\\sinan\\OneDrive\\Documents\\TEJ3M-Summative\\TEJ3M-FinalProject\\TEJ3M-SummativeProject\\build\\sketch\\TEJ3M-SummativeProject.ino.cpp.d"
+    },
+    "compile_task": {
+      "args": [
+        "C:\\Users\\sinan\\AppData\\Local\\Arduino15\\packages\\arduino\\tools\\arm-none-eabi-gcc\\7-2017q4/bin/arm-none-eabi-g++",
+        "-c",
+        "-w",
+        "-Os",
+        "-g3",
+        "-fno-use-cxa-atexit",
+        "-fno-rtti",
+        "-fno-exceptions",
+        "-nostdlib",
+        "-DF_CPU=48000000",
+        "-DNO_USB",
+        "-DBACKTRACE_SUPPORT",
+        "-DARDUINO_UNOR4_WIFI",
+        "-std=gnu++17",
+        "-mcpu=cortex-m4",
+        "-mfloat-abi=hard",
+        "-mfpu=fpv4-sp-d16",
+        "-fsigned-char",
+        "-ffunction-sections",
+        "-fdata-sections",
+        "-fmessage-length=0",
+        "-fno-builtin",
+        "-w",
+        "-x",
+        "c++",
+        "-E",
+        "-CC",
+        "-DARDUINO=10607",
+        "-DPROJECT_NAME=\"C:\\Users\\sinan\\OneDrive\\Documents\\TEJ3M-Summative\\TEJ3M-FinalProject\\TEJ3M-SummativeProject\\build/TEJ3M-SummativeProject.ino\"",
+        "-DARDUINO_UNOWIFIR4",
+        "-DARDUINO_ARCH_RENESAS_UNO",
+        "-DARDUINO_ARCH_RENESAS",
+        "-DARDUINO_FSP",
+        "-D_XOPEN_SOURCE=700",
+        "-mthumb",
+        "@C:\\Users\\sinan\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\renesas_uno\\1.5.1\\variants\\UNOWIFIR4/defines.txt",
+        "-DCFG_TUSB_MCU=OPT_MCU_RAXXX",
+        "-IC:\\Users\\sinan\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\renesas_uno\\1.5.1\\cores\\arduino/tinyusb",
+        "-IC:\\Users\\sinan\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\renesas_uno\\1.5.1\\cores\\arduino/api/deprecated",
+        "-IC:\\Users\\sinan\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\renesas_uno\\1.5.1\\cores\\arduino/api/deprecated-avr-comp",
+        "-IC:\\Users\\sinan\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\renesas_uno\\1.5.1\\cores\\arduino",
+        "-IC:\\Users\\sinan\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\renesas_uno\\1.5.1\\variants\\UNOWIFIR4",
+        "-iprefixC:\\Users\\sinan\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\renesas_uno\\1.5.1",
+        "@C:\\Users\\sinan\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\renesas_uno\\1.5.1\\variants\\UNOWIFIR4/includes.txt",
+        "C:\\Users\\sinan\\OneDrive\\Documents\\TEJ3M-Summative\\TEJ3M-FinalProject\\TEJ3M-SummativeProject\\build\\sketch\\TEJ3M-SummativeProject.ino.cpp",
+        "-o",
+        "nul"
+      ]
+    }
+  },
+  {
+    "missing_include_h": ""
+  }
+]
